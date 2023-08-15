@@ -4,7 +4,7 @@
 
 > Layout recriado para fortalecer alguns conceitos de CSS e estrutura HTML!
 
-[🔗Click to acess](https://rodkunz.github.io/focusTimer/)
+[🔗Click to acess](https://rodkunz.github.io/flutuar-viagens/)
 
 ## 🛠 Technologies used
 
